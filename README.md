@@ -1,5 +1,5 @@
-# Simple Github Blog Templates
-
+# Jueon's Blog
+> 개발 일지
 ## Ref.
 
 - [Github Blog](https://pages.github.com/)
